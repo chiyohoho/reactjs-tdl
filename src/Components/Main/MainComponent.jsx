@@ -226,7 +226,7 @@ const MainComponent = () => {
                         <Text color={'black'} fontSize={24} fontWeight={800} textAlign={'center'}>Lịch sử hoạt động</Text>
                     </Box>
 
-                    <Box mt={'6.5%'} overflowY={'scroll'} maxHeight={'60.7vh'} css={{
+                    <Box mt={14} overflowY={'scroll'} maxHeight={'60.7vh'} css={{
                         /* width */
                         '&::-webkit-scrollbar': {
                             width: '6px',
